@@ -1,0 +1,79 @@
+# .NET Core
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.swp
+*.log
+*.dat
+*.sql
+*.db
+*.sqlite
+*.sqlite
+*.sql.gz
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Mm]32/
+
+# Project files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.suo
+*.vscode/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Logs
+logs/
+*.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# SQLite
+*.db
+
+# Other files
+*.zip
+*.tar.gz
+*.rar
+
+# Environment Files
+.env
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Auto-generated files
+*.g.cs
+*.g.i.cs
+
+# Visual Studio
+.vs/
