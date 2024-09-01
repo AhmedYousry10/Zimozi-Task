@@ -9,7 +9,7 @@ out/
 *.swp
 *.log
 *.dat
-*.sql
+
 *.db
 *.sqlite
 *.sqlite
